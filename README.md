@@ -11,9 +11,6 @@
 <meta property="og:url" content="https://shenkhaw.com/">
 <!-- TODO: add your own image at /assets/og.png, then uncomment -->
 <!-- <meta property="og:image" content="https://shenkhaw.com/assets/og.png"> -->
-<meta name="twitter:card" content="summary">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%2314202b'/%3E%3Cpath d='M8 3l4 2.5v5L8 13l-4-2.5v-5z' fill='none' stroke='%23fff' stroke-width='1.2'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
 <script>
 (function () {
   try {
