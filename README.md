@@ -138,9 +138,6 @@ footer { padding: 2rem 0 3rem; border-top: 1px solid var(--rule); color: var(--g
             <li>Maintained multiple aquatic organism tank systems used for experimental research.</li>
             <li>Entered data and prepared presentations for visitors.</li>
           </ul></div></li>
-        <li><time>Sep 2026</time><div><h3>Top Talent Award, AYBO 2026</h3><p class="where">Asian Gifted Youth Association</p><p>Placed in the top 1.2 percentile of 2,000 participants.</p></div></li>
-        <li><time>Aug 2026</time><div><h3>Financing Biotech Innovations</h3><p class="where">Certification from <a href="https://www.tum.de/en/" target="_blank" rel="noopener">Technical University of Munich</a> via <a href="https://www.coursera.org/" target="_blank" rel="noopener">Coursera</a></p><p>Awarded a competitive scholarship. Coursework covered financing and entrepreneurship, including how to pitch and secure investment.</p></div></li>
-        <li><time>Jun 2026</time><div><h3>Applied Bioinformatics</h3><p class="where">Certification from <a href="https://ucsd.edu/" target="_blank" rel="noopener">UC San Diego</a> via <a href="https://www.coursera.org/" target="_blank" rel="noopener">Coursera</a></p><p>Awarded a competitive scholarship. Coursework covered genomic data analysis and viral sequence tracking of Covid-19.</p></div></li>
       </ol>
     </section>
 
