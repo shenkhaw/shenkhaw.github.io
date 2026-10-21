@@ -1,9 +1,7 @@
-<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Shen Khaw</title>
 <meta name="description" content="Shen Khaw: aspiring neurobiologist in Penang, Malaysia, working on gene editing, organoids and mechanobiology.">
 <meta name="author" content="Shen Khaw">
 <link rel="canonical" href="https://shenkhaw.com/">
