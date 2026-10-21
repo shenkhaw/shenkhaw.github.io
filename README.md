@@ -131,7 +131,7 @@ footer { padding: 2rem 0 3rem; border-top: 1px solid var(--rule); color: var(--g
     <section id="experience">
       <h2>Experience</h2>
       <ol class="timeline">
-        <li><time>Nov 2026</time><div><h3>Bavi Lab</h3><p class="where">Remote research intern, UNSW and UCLA</p><p>Starting work on the mechanobiology and structural biology of membrane proteins and ion channels.</p></div></li>
+        <li><time>Nov 2026</time><div><h3>Bavi Lab</h3><p class="where">Remote research intern, UNSW</p><p>Starting work on the mechanobiology and structural biology of membrane proteins and ion channels.</p></div></li>
         <li><time>Sep 2026 to present</time><div><h3>Research Intern</h3><p class="where">Gene Editing and Organoid Laboratory, Institute of Modern Biology, <a href="https://www.nju.edu.cn/en/" target="_blank" rel="noopener">Nanjing University</a>. Remote, supervised by Peipei Qin.</p>
           <ul>
             <li>Mapping transcriptome-wide off-target analysis workflows for ADAR-mediated RNA editing.</li>
@@ -160,12 +160,6 @@ footer { padding: 2rem 0 3rem; border-top: 1px solid var(--rule); color: var(--g
           <h3>ADAR off-target analysis</h3>
           <p>Workflow mapping for transcriptome-wide off-target effects of ADAR-mediated RNA editing, using RNA-seq data. <!-- TODO: check with your supervisors what you can share publicly --></p>
           <span class="meta"><span>Nanjing University, 2026</span></span>
-        </article>
-        <article class="card">
-          <h3>Field Notes</h3>
-          <p>A revision platform for A Level students. <!-- TODO: describe what it does and what makes it different --></p>
-          <span class="meta"><a href="#">Live site</a><a href="#">Source</a></span>
-        </article>
       </div>
     </section>
   </div>
