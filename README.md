@@ -9,8 +9,6 @@
 <meta property="og:description" content="Aspiring neurobiologist in Penang, Malaysia, working on gene editing, organoids and mechanobiology.">
 <meta property="og:url" content="https://shenkhaw.com/">
 <meta name="twitter:card" content="summary">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314202b'/%3E%3Ctext x='32' y='43' font-family='Georgia,serif' font-size='30' font-weight='700' text-anchor='middle' fill='%23ffffff'%3ESK%3C/text%3E%3C/svg%3E">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;700&display=swap">
 <script>
 (function () {
   document.documentElement.classList.add('js');
