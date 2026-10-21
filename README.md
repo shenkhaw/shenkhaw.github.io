@@ -4,7 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="Shen Khaw: aspiring neurobiologist in Penang, Malaysia, working on gene editing, organoids and mechanobiology.">
 <meta name="author" content="Shen Khaw">
-<link rel="canonical" href="https://shenkhaw.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Shen Khaw">
 <meta property="og:title" content="Shen Khaw">
